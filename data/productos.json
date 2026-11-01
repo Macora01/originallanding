@@ -1,0 +1,409 @@
+[
+ {
+  "id": "alpargatas-elba",
+  "nombre": "Alpargatas Elba",
+  "categoria": "Alpargatas",
+  "precio": 65000,
+  "precioMax": 65000,
+  "imagenes": [
+   "assets/img/productos/alpargatas-elba-1.jpg",
+   "assets/img/productos/alpargatas-elba-2.jpg"
+  ]
+ },
+ {
+  "id": "alpargatas-fusca",
+  "nombre": "Alpargatas Fusca",
+  "categoria": "Alpargatas",
+  "precio": 65000,
+  "precioMax": 65000,
+  "imagenes": [
+   "assets/img/productos/alpargatas-fusca-1.jpg",
+   "assets/img/productos/alpargatas-fusca-2.jpg"
+  ]
+ },
+ {
+  "id": "blusa-amalia",
+  "nombre": "Blusa Amalia",
+  "categoria": "Blusas",
+  "precio": 34000,
+  "precioMax": 34000,
+  "imagenes": [
+   "assets/img/productos/blusa-amalia-1.jpg",
+   "assets/img/productos/blusa-amalia-2.jpg"
+  ]
+ },
+ {
+  "id": "bi4166",
+  "nombre": "Blusa Atenas",
+  "categoria": "Blusas",
+  "precio": 30000,
+  "precioMax": 30000,
+  "imagenes": [
+   "assets/img/productos/bi4166-1.jpg",
+   "assets/img/productos/bi4166-2.jpg"
+  ]
+ },
+ {
+  "id": "blusa-camila",
+  "nombre": "Blusa Belén",
+  "categoria": "Blusas",
+  "precio": 32000,
+  "precioMax": 32000,
+  "imagenes": [
+   "assets/img/productos/blusa-camila-1.jpg",
+   "assets/img/productos/blusa-camila-2.jpg"
+  ]
+ },
+ {
+  "id": "blusa-bernardita",
+  "nombre": "Blusa Bernardita",
+  "categoria": "Blusas",
+  "precio": 34000,
+  "precioMax": 34000,
+  "imagenes": [
+   "assets/img/productos/blusa-bernardita-1.jpg",
+   "assets/img/productos/blusa-bernardita-2.jpg"
+  ]
+ },
+ {
+  "id": "bi4172",
+  "nombre": "Blusa Bilbao",
+  "categoria": "Blusas",
+  "precio": 42000,
+  "precioMax": 42000,
+  "imagenes": [
+   "assets/img/productos/bi4172-1.jpg",
+   "assets/img/productos/bi4172-2.jpg"
+  ]
+ },
+ {
+  "id": "blusa-blanca",
+  "nombre": "Blusa Blanca",
+  "categoria": "Blusas",
+  "precio": 30000,
+  "precioMax": 30000,
+  "imagenes": [
+   "assets/img/productos/blusa-blanca-1.jpg",
+   "assets/img/productos/blusa-blanca-2.jpg"
+  ]
+ },
+ {
+  "id": "blusa-camila-1",
+  "nombre": "Blusa Camila",
+  "categoria": "Blusas",
+  "precio": 32000,
+  "precioMax": 32000,
+  "imagenes": [
+   "assets/img/productos/blusa-camila-1-1.jpg",
+   "assets/img/productos/blusa-camila-1-2.jpg"
+  ]
+ },
+ {
+  "id": "bi4156",
+  "nombre": "Blusa Carmen",
+  "categoria": "Blusas",
+  "precio": 41000,
+  "precioMax": 41000,
+  "imagenes": [
+   "assets/img/productos/bi4156-1.jpg",
+   "assets/img/productos/bi4156-2.jpg"
+  ]
+ },
+ {
+  "id": "blusa-catalina",
+  "nombre": "Blusa Catalina",
+  "categoria": "Blusas",
+  "precio": 32000,
+  "precioMax": 32000,
+  "imagenes": [
+   "assets/img/productos/blusa-catalina-1.jpg",
+   "assets/img/productos/blusa-catalina-2.jpg"
+  ]
+ },
+ {
+  "id": "blusa-clara",
+  "nombre": "Blusa Clara",
+  "categoria": "Blusas",
+  "precio": 32000,
+  "precioMax": 32000,
+  "imagenes": [
+   "assets/img/productos/blusa-clara-1.jpg",
+   "assets/img/productos/blusa-clara-2.jpg"
+  ]
+ },
+ {
+  "id": "bi4130",
+  "nombre": "Blusa Córdoba",
+  "categoria": "Blusas",
+  "precio": 30000,
+  "precioMax": 30000,
+  "imagenes": [
+   "assets/img/productos/bi4130-1.jpg",
+   "assets/img/productos/bi4130-2.jpg"
+  ]
+ },
+ {
+  "id": "blusa-daniela",
+  "nombre": "Blusa Daniela",
+  "categoria": "Blusas",
+  "precio": 38000,
+  "precioMax": 38000,
+  "imagenes": [
+   "assets/img/productos/blusa-daniela-1.jpg",
+   "assets/img/productos/blusa-daniela-2.jpg"
+  ]
+ },
+ {
+  "id": "blusa-diana",
+  "nombre": "Blusa Diana",
+  "categoria": "Blusas",
+  "precio": 36000,
+  "precioMax": 36000,
+  "imagenes": [
+   "assets/img/productos/blusa-diana-1.jpg",
+   "assets/img/productos/blusa-diana-2.jpg"
+  ]
+ },
+ {
+  "id": "blusa-panal",
+  "nombre": "Blusa Panal",
+  "categoria": "Blusas",
+  "precio": 32000,
+  "precioMax": 32000,
+  "imagenes": [
+   "assets/img/productos/blusa-panal-1.jpg",
+   "assets/img/productos/blusa-panal-2.jpg"
+  ]
+ },
+ {
+  "id": "bi4151",
+  "nombre": "Blusa Santorini",
+  "categoria": "Blusas",
+  "precio": 32000,
+  "precioMax": 32000,
+  "imagenes": [
+   "assets/img/productos/bi4151-1.jpg",
+   "assets/img/productos/bi4151-2.jpg"
+  ]
+ },
+ {
+  "id": "bi4103",
+  "nombre": "Blusa Venecia",
+  "categoria": "Blusas",
+  "precio": 32000,
+  "precioMax": 32000,
+  "imagenes": [
+   "assets/img/productos/bi4103-1.jpg",
+   "assets/img/productos/bi4103-2.jpg"
+  ]
+ },
+ {
+  "id": "coleta",
+  "nombre": "Coleta",
+  "categoria": "Otros",
+  "precio": 7000,
+  "precioMax": 7000,
+  "imagenes": [
+   "assets/img/productos/coleta-1.jpg",
+   "assets/img/productos/coleta-2.jpg"
+  ]
+ },
+ {
+  "id": "falda-ana",
+  "nombre": "Falda Ana",
+  "categoria": "Faldas y Shorts",
+  "precio": 42000,
+  "precioMax": 42000,
+  "imagenes": [
+   "assets/img/productos/falda-ana-1.jpg",
+   "assets/img/productos/falda-ana-2.jpg"
+  ]
+ },
+ {
+  "id": "falda-beatriz",
+  "nombre": "Falda Beatriz",
+  "categoria": "Faldas y Shorts",
+  "precio": 32000,
+  "precioMax": 32000,
+  "imagenes": [
+   "assets/img/productos/falda-beatriz-1.jpg",
+   "assets/img/productos/falda-beatriz-2.jpg"
+  ]
+ },
+ {
+  "id": "falda-carolina",
+  "nombre": "Falda Carolina",
+  "categoria": "Faldas y Shorts",
+  "precio": 42000,
+  "precioMax": 42000,
+  "imagenes": [
+   "assets/img/productos/falda-carolina-1.jpg",
+   "assets/img/productos/falda-carolina-2.jpg"
+  ]
+ },
+ {
+  "id": "falda-formentera",
+  "nombre": "Falda Formentera",
+  "categoria": "Faldas y Shorts",
+  "precio": 32000,
+  "precioMax": 32000,
+  "imagenes": [
+   "assets/img/productos/falda-formentera-1.jpg",
+   "assets/img/productos/falda-formentera-2.jpg"
+  ]
+ },
+ {
+  "id": "falda-panal",
+  "nombre": "Falda Panal",
+  "categoria": "Faldas y Shorts",
+  "precio": 44000,
+  "precioMax": 44000,
+  "imagenes": [
+   "assets/img/productos/falda-panal-1.jpg",
+   "assets/img/productos/falda-panal-2.jpg"
+  ]
+ },
+ {
+  "id": "flor",
+  "nombre": "Flor",
+  "categoria": "Otros",
+  "precio": 10000,
+  "precioMax": 10000,
+  "imagenes": [
+   "assets/img/productos/flor-1.jpg",
+   "assets/img/productos/flor-2.jpg"
+  ]
+ },
+ {
+  "id": "pantalon-antonia",
+  "nombre": "Pantalón Antonia",
+  "categoria": "Pantalones",
+  "precio": 42000,
+  "precioMax": 42000,
+  "imagenes": [
+   "assets/img/productos/pantalon-antonia-1.jpg",
+   "assets/img/productos/pantalon-antonia-2.jpg"
+  ]
+ },
+ {
+  "id": "bi4104",
+  "nombre": "Pantalón Berlín",
+  "categoria": "Pantalones",
+  "precio": 42000,
+  "precioMax": 42000,
+  "imagenes": [
+   "assets/img/productos/bi4104-1.jpg",
+   "assets/img/productos/bi4104-2.jpg"
+  ]
+ },
+ {
+  "id": "bi4167",
+  "nombre": "Pantalón Estambul",
+  "categoria": "Pantalones",
+  "precio": 44000,
+  "precioMax": 44000,
+  "imagenes": [
+   "assets/img/productos/bi4167-1.jpg",
+   "assets/img/productos/bi4167-2.jpg"
+  ]
+ },
+ {
+  "id": "bi4159",
+  "nombre": "Pantalón Madrid",
+  "categoria": "Pantalones",
+  "precio": 42000,
+  "precioMax": 42000,
+  "imagenes": [
+   "assets/img/productos/bi4159-1.jpg",
+   "assets/img/productos/bi4159-2.jpg"
+  ]
+ },
+ {
+  "id": "short-cecilia",
+  "nombre": "Short Cecilia",
+  "categoria": "Faldas y Shorts",
+  "precio": 32000,
+  "precioMax": 32000,
+  "imagenes": [
+   "assets/img/productos/short-cecilia-1.jpg",
+   "assets/img/productos/short-cecilia-2.jpg"
+  ]
+ },
+ {
+  "id": "vest-claudia",
+  "nombre": "Vest Claudia",
+  "categoria": "Blazer y Vest",
+  "precio": 40000,
+  "precioMax": 40000,
+  "imagenes": [
+   "assets/img/productos/vest-claudia-1.jpg",
+   "assets/img/productos/vest-claudia-2.jpg"
+  ]
+ },
+ {
+  "id": "blusa-blanca-copia",
+  "nombre": "Vest Constanza",
+  "categoria": "Blazer y Vest",
+  "precio": 30000,
+  "precioMax": 30000,
+  "imagenes": [
+   "assets/img/productos/blusa-blanca-copia-1.jpg",
+   "assets/img/productos/blusa-blanca-copia-2.jpg"
+  ]
+ },
+ {
+  "id": "vestido-adela",
+  "nombre": "Vestido Adela",
+  "categoria": "Vestidos",
+  "precio": 45000,
+  "precioMax": 45000,
+  "imagenes": [
+   "assets/img/productos/vestido-adela-1.jpg",
+   "assets/img/productos/vestido-adela-2.jpg"
+  ]
+ },
+ {
+  "id": "vestido-alidiq",
+  "nombre": "Vestido Alicia",
+  "categoria": "Vestidos",
+  "precio": 46000,
+  "precioMax": 46000,
+  "imagenes": [
+   "assets/img/productos/vestido-alidiq-1.jpg",
+   "assets/img/productos/vestido-alidiq-2.jpg"
+  ]
+ },
+ {
+  "id": "vestido-andrea",
+  "nombre": "Vestido Andrea",
+  "categoria": "Vestidos",
+  "precio": 42000,
+  "precioMax": 42000,
+  "imagenes": [
+   "assets/img/productos/vestido-andrea-1.jpg",
+   "assets/img/productos/vestido-andrea-2.jpg"
+  ]
+ },
+ {
+  "id": "vestido-aurora",
+  "nombre": "Vestido Aurora",
+  "categoria": "Vestidos",
+  "precio": 55000,
+  "precioMax": 55000,
+  "imagenes": [
+   "assets/img/productos/vestido-aurora-1.jpg",
+   "assets/img/productos/vestido-aurora-2.jpg"
+  ]
+ },
+ {
+  "id": "bi4119",
+  "nombre": "Vestido Menorca",
+  "categoria": "Vestidos",
+  "precio": 50000,
+  "precioMax": 50000,
+  "imagenes": [
+   "assets/img/productos/bi4119-1.jpg",
+   "assets/img/productos/bi4119-2.jpg"
+  ]
+ }
+]
