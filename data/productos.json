@@ -5,9 +5,287 @@
   "categoria": "Alpargatas",
   "precio": 65000,
   "precioMax": 65000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Fango",
+     "Azul Marino",
+     "Musgo",
+     "Mostaza / Amarillo",
+     "Fucsia",
+     "Rojo",
+     "Negro"
+    ]
+   },
+   {
+    "nombre": "Talla",
+    "valores": [
+     "37 Europa",
+     "38 Europa",
+     "39 Europa",
+     "40 Europa"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Fango / 37 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Fango",
+     "37 Europa"
+    ]
+   },
+   {
+    "titulo": "Fango / 38 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Fango",
+     "38 Europa"
+    ]
+   },
+   {
+    "titulo": "Fango / 39 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Fango",
+     "39 Europa"
+    ]
+   },
+   {
+    "titulo": "Fango / 40 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Fango",
+     "40 Europa"
+    ]
+   },
+   {
+    "titulo": "Azul Marino / 37 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Azul Marino",
+     "37 Europa"
+    ]
+   },
+   {
+    "titulo": "Azul Marino / 38 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Azul Marino",
+     "38 Europa"
+    ]
+   },
+   {
+    "titulo": "Azul Marino / 39 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Azul Marino",
+     "39 Europa"
+    ]
+   },
+   {
+    "titulo": "Azul Marino / 40 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Azul Marino",
+     "40 Europa"
+    ]
+   },
+   {
+    "titulo": "Musgo / 37 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Musgo",
+     "37 Europa"
+    ]
+   },
+   {
+    "titulo": "Musgo / 38 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Musgo",
+     "38 Europa"
+    ]
+   },
+   {
+    "titulo": "Musgo / 39 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Musgo",
+     "39 Europa"
+    ]
+   },
+   {
+    "titulo": "Musgo / 40 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Musgo",
+     "40 Europa"
+    ]
+   },
+   {
+    "titulo": "Mostaza / Amarillo / 37 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Mostaza / Amarillo",
+     "37 Europa"
+    ]
+   },
+   {
+    "titulo": "Mostaza / Amarillo / 38 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Mostaza / Amarillo",
+     "38 Europa"
+    ]
+   },
+   {
+    "titulo": "Mostaza / Amarillo / 39 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Mostaza / Amarillo",
+     "39 Europa"
+    ]
+   },
+   {
+    "titulo": "Mostaza / Amarillo / 40 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Mostaza / Amarillo",
+     "40 Europa"
+    ]
+   },
+   {
+    "titulo": "Fucsia / 37 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Fucsia",
+     "37 Europa"
+    ]
+   },
+   {
+    "titulo": "Fucsia / 38 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Fucsia",
+     "38 Europa"
+    ]
+   },
+   {
+    "titulo": "Fucsia / 39 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Fucsia",
+     "39 Europa"
+    ]
+   },
+   {
+    "titulo": "Fucsia / 40 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Fucsia",
+     "40 Europa"
+    ]
+   },
+   {
+    "titulo": "Rojo / 37 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Rojo",
+     "37 Europa"
+    ]
+   },
+   {
+    "titulo": "Rojo / 38 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Rojo",
+     "38 Europa"
+    ]
+   },
+   {
+    "titulo": "Rojo / 39 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Rojo",
+     "39 Europa"
+    ]
+   },
+   {
+    "titulo": "Rojo / 40 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Rojo",
+     "40 Europa"
+    ]
+   },
+   {
+    "titulo": "Negro / 37 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Negro",
+     "37 Europa"
+    ]
+   },
+   {
+    "titulo": "Negro / 38 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Negro",
+     "38 Europa"
+    ]
+   },
+   {
+    "titulo": "Negro / 39 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Negro",
+     "39 Europa"
+    ]
+   },
+   {
+    "titulo": "Negro / 40 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Negro",
+     "40 Europa"
+    ]
+   }
+  ],
+  "descripcion": "Alpargatas españolas de cuero de ante y forradas en cuero. Cuentan con 5 cuerdas de altura, equivalente a 7 cm. Zapatos cómodos y perfectos para combinar con cualquier look Boa Ideia. - Composición: 80% cuero, 15% yute y 5% caucho. - Talla: Del 37 al 40, número europeo que equivale a uno más que el chileno. Por ejemplo, si eres 38 en Chile, eres 39 en Europa. - Colores: Taupe, Musgo, Rojo, Fucsia, Mostaza, Azul marino y Negro.",
   "imagenes": [
-   "assets/img/productos/alpargatas-elba-1.jpg",
-   "assets/img/productos/alpargatas-elba-2.jpg"
+   "assets/img/productos/alpargatas-elba/01.jpg",
+   "assets/img/productos/alpargatas-elba/02.jpg",
+   "assets/img/productos/alpargatas-elba/03.jpg",
+   "assets/img/productos/alpargatas-elba/04.jpg",
+   "assets/img/productos/alpargatas-elba/05.jpg",
+   "assets/img/productos/alpargatas-elba/06.jpg",
+   "assets/img/productos/alpargatas-elba/07.jpg",
+   "assets/img/productos/alpargatas-elba/08.jpg",
+   "assets/img/productos/alpargatas-elba/09.jpg",
+   "assets/img/productos/alpargatas-elba/10.jpg",
+   "assets/img/productos/alpargatas-elba/11.jpg",
+   "assets/img/productos/alpargatas-elba/12.jpg",
+   "assets/img/productos/alpargatas-elba/13.jpg",
+   "assets/img/productos/alpargatas-elba/14.jpg",
+   "assets/img/productos/alpargatas-elba/15.jpg",
+   "assets/img/productos/alpargatas-elba/16.jpg",
+   "assets/img/productos/alpargatas-elba/17.jpg",
+   "assets/img/productos/alpargatas-elba/18.jpg",
+   "assets/img/productos/alpargatas-elba/19.jpg",
+   "assets/img/productos/alpargatas-elba/20.jpg",
+   "assets/img/productos/alpargatas-elba/21.jpg",
+   "assets/img/productos/alpargatas-elba/22.jpg",
+   "assets/img/productos/alpargatas-elba/23.jpg",
+   "assets/img/productos/alpargatas-elba/24.jpg",
+   "assets/img/productos/alpargatas-elba/25.jpg",
+   "assets/img/productos/alpargatas-elba/26.jpg",
+   "assets/img/productos/alpargatas-elba/27.jpg",
+   "assets/img/productos/alpargatas-elba/28.jpg",
+   "assets/img/productos/alpargatas-elba/29.jpg",
+   "assets/img/productos/alpargatas-elba/30.jpg"
   ]
  },
  {
@@ -16,9 +294,287 @@
   "categoria": "Alpargatas",
   "precio": 65000,
   "precioMax": 65000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Fango",
+     "Azul Marino",
+     "Musgo",
+     "Mostaza / Amarillo",
+     "Fucsia",
+     "Rojo",
+     "Negro"
+    ]
+   },
+   {
+    "nombre": "Talla",
+    "valores": [
+     "37 Europa",
+     "38 Europa",
+     "39 Europa",
+     "40 Europa"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Fango / 37 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Fango",
+     "37 Europa"
+    ]
+   },
+   {
+    "titulo": "Fango / 38 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Fango",
+     "38 Europa"
+    ]
+   },
+   {
+    "titulo": "Fango / 39 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Fango",
+     "39 Europa"
+    ]
+   },
+   {
+    "titulo": "Fango / 40 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Fango",
+     "40 Europa"
+    ]
+   },
+   {
+    "titulo": "Azul Marino / 37 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Azul Marino",
+     "37 Europa"
+    ]
+   },
+   {
+    "titulo": "Azul Marino / 38 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Azul Marino",
+     "38 Europa"
+    ]
+   },
+   {
+    "titulo": "Azul Marino / 39 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Azul Marino",
+     "39 Europa"
+    ]
+   },
+   {
+    "titulo": "Azul Marino / 40 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Azul Marino",
+     "40 Europa"
+    ]
+   },
+   {
+    "titulo": "Musgo / 37 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Musgo",
+     "37 Europa"
+    ]
+   },
+   {
+    "titulo": "Musgo / 38 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Musgo",
+     "38 Europa"
+    ]
+   },
+   {
+    "titulo": "Musgo / 39 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Musgo",
+     "39 Europa"
+    ]
+   },
+   {
+    "titulo": "Musgo / 40 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Musgo",
+     "40 Europa"
+    ]
+   },
+   {
+    "titulo": "Mostaza / Amarillo / 37 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Mostaza / Amarillo",
+     "37 Europa"
+    ]
+   },
+   {
+    "titulo": "Mostaza / Amarillo / 38 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Mostaza / Amarillo",
+     "38 Europa"
+    ]
+   },
+   {
+    "titulo": "Mostaza / Amarillo / 39 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Mostaza / Amarillo",
+     "39 Europa"
+    ]
+   },
+   {
+    "titulo": "Mostaza / Amarillo / 40 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Mostaza / Amarillo",
+     "40 Europa"
+    ]
+   },
+   {
+    "titulo": "Fucsia / 37 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Fucsia",
+     "37 Europa"
+    ]
+   },
+   {
+    "titulo": "Fucsia / 38 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Fucsia",
+     "38 Europa"
+    ]
+   },
+   {
+    "titulo": "Fucsia / 39 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Fucsia",
+     "39 Europa"
+    ]
+   },
+   {
+    "titulo": "Fucsia / 40 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Fucsia",
+     "40 Europa"
+    ]
+   },
+   {
+    "titulo": "Rojo / 37 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Rojo",
+     "37 Europa"
+    ]
+   },
+   {
+    "titulo": "Rojo / 38 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Rojo",
+     "38 Europa"
+    ]
+   },
+   {
+    "titulo": "Rojo / 39 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Rojo",
+     "39 Europa"
+    ]
+   },
+   {
+    "titulo": "Rojo / 40 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Rojo",
+     "40 Europa"
+    ]
+   },
+   {
+    "titulo": "Negro / 37 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Negro",
+     "37 Europa"
+    ]
+   },
+   {
+    "titulo": "Negro / 38 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Negro",
+     "38 Europa"
+    ]
+   },
+   {
+    "titulo": "Negro / 39 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Negro",
+     "39 Europa"
+    ]
+   },
+   {
+    "titulo": "Negro / 40 Europa",
+    "precio": 65000,
+    "opciones": [
+     "Negro",
+     "40 Europa"
+    ]
+   }
+  ],
+  "descripcion": "Alpargatas españolas de cuero de ante y forradas en cuero. Cuentan con 7 cuerdas de altura, equivalente a 9 cm. Zapatos cómodos y perfectos para combinar con cualquier look Boa Ideia. - Composición: 80% cuero, 15% yute y 5% caucho. - Talla: De la 37 a la 40, número europeo que equivale a uno más que el chileno. Por ejemplo, si eres 38 en Chile, eres 39 en Europa. - Colores: Taupe, Musgo, Rojo, Fucsia, Mostaza, Azul marino y Negro.",
   "imagenes": [
-   "assets/img/productos/alpargatas-fusca-1.jpg",
-   "assets/img/productos/alpargatas-fusca-2.jpg"
+   "assets/img/productos/alpargatas-fusca/01.jpg",
+   "assets/img/productos/alpargatas-fusca/02.jpg",
+   "assets/img/productos/alpargatas-fusca/03.jpg",
+   "assets/img/productos/alpargatas-fusca/04.jpg",
+   "assets/img/productos/alpargatas-fusca/05.jpg",
+   "assets/img/productos/alpargatas-fusca/06.jpg",
+   "assets/img/productos/alpargatas-fusca/07.jpg",
+   "assets/img/productos/alpargatas-fusca/08.jpg",
+   "assets/img/productos/alpargatas-fusca/09.jpg",
+   "assets/img/productos/alpargatas-fusca/10.jpg",
+   "assets/img/productos/alpargatas-fusca/11.jpg",
+   "assets/img/productos/alpargatas-fusca/12.jpg",
+   "assets/img/productos/alpargatas-fusca/13.jpg",
+   "assets/img/productos/alpargatas-fusca/14.jpg",
+   "assets/img/productos/alpargatas-fusca/15.jpg",
+   "assets/img/productos/alpargatas-fusca/16.jpg",
+   "assets/img/productos/alpargatas-fusca/17.jpg",
+   "assets/img/productos/alpargatas-fusca/18.jpg",
+   "assets/img/productos/alpargatas-fusca/19.jpg",
+   "assets/img/productos/alpargatas-fusca/20.jpg",
+   "assets/img/productos/alpargatas-fusca/21.jpg",
+   "assets/img/productos/alpargatas-fusca/22.jpg",
+   "assets/img/productos/alpargatas-fusca/23.jpg",
+   "assets/img/productos/alpargatas-fusca/24.jpg",
+   "assets/img/productos/alpargatas-fusca/25.jpg",
+   "assets/img/productos/alpargatas-fusca/26.jpg",
+   "assets/img/productos/alpargatas-fusca/27.jpg",
+   "assets/img/productos/alpargatas-fusca/28.jpg",
+   "assets/img/productos/alpargatas-fusca/29.jpg",
+   "assets/img/productos/alpargatas-fusca/30.jpg"
   ]
  },
  {
@@ -27,9 +583,115 @@
   "categoria": "Blusas",
   "precio": 34000,
   "precioMax": 34000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 34000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 34000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 34000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 34000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 34000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 34000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 34000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 34000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul marino",
+    "precio": 34000,
+    "opciones": [
+     "Azul marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 34000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Blusa sin mangas con 3 amarras frontales y vuelo, en lino italiano - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Marrón, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/blusa-amalia-1.jpg",
-   "assets/img/productos/blusa-amalia-2.jpg"
+   "assets/img/productos/blusa-amalia/01.jpg",
+   "assets/img/productos/blusa-amalia/02.jpg",
+   "assets/img/productos/blusa-amalia/03.jpg",
+   "assets/img/productos/blusa-amalia/04.jpg",
+   "assets/img/productos/blusa-amalia/05.jpg",
+   "assets/img/productos/blusa-amalia/06.jpg",
+   "assets/img/productos/blusa-amalia/07.jpg",
+   "assets/img/productos/blusa-amalia/08.jpg",
+   "assets/img/productos/blusa-amalia/09.jpg",
+   "assets/img/productos/blusa-amalia/10.jpg",
+   "assets/img/productos/blusa-amalia/11.jpg",
+   "assets/img/productos/blusa-amalia/12.jpg",
+   "assets/img/productos/blusa-amalia/13.jpg",
+   "assets/img/productos/blusa-amalia/14.jpg",
+   "assets/img/productos/blusa-amalia/15.jpg",
+   "assets/img/productos/blusa-amalia/16.jpg",
+   "assets/img/productos/blusa-amalia/17.jpg",
+   "assets/img/productos/blusa-amalia/18.jpg"
   ]
  },
  {
@@ -38,9 +700,107 @@
   "categoria": "Blusas",
   "precio": 30000,
   "precioMax": 30000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul Marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 30000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 30000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 30000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 30000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 30000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 30000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 30000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 30000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul Marino",
+    "precio": 30000,
+    "opciones": [
+     "Azul Marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 30000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Blusa en lino italiano, con escote en V, sin mangas y con vuelos en el escote. - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Marrón, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/bi4166-1.jpg",
-   "assets/img/productos/bi4166-2.jpg"
+   "assets/img/productos/bi4166/01.jpg",
+   "assets/img/productos/bi4166/02.jpg",
+   "assets/img/productos/bi4166/03.jpg",
+   "assets/img/productos/bi4166/04.jpg",
+   "assets/img/productos/bi4166/05.jpg",
+   "assets/img/productos/bi4166/06.jpg",
+   "assets/img/productos/bi4166/07.jpg",
+   "assets/img/productos/bi4166/08.jpg",
+   "assets/img/productos/bi4166/09.jpg",
+   "assets/img/productos/bi4166/10.jpg"
   ]
  },
  {
@@ -49,9 +809,105 @@
   "categoria": "Blusas",
   "precio": 32000,
   "precioMax": 32000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 32000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 32000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 32000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 32000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 32000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 32000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 32000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 32000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul marino",
+    "precio": 32000,
+    "opciones": [
+     "Azul marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 32000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Blusa sin mangas con escote en V y 3 amarras frontales, en lino italiano - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/blusa-camila-1.jpg",
-   "assets/img/productos/blusa-camila-2.jpg"
+   "assets/img/productos/blusa-camila/01.jpg",
+   "assets/img/productos/blusa-camila/02.jpg",
+   "assets/img/productos/blusa-camila/03.jpg",
+   "assets/img/productos/blusa-camila/04.jpg",
+   "assets/img/productos/blusa-camila/05.jpg",
+   "assets/img/productos/blusa-camila/06.jpg",
+   "assets/img/productos/blusa-camila/07.jpg",
+   "assets/img/productos/blusa-camila/08.jpg"
   ]
  },
  {
@@ -60,9 +916,109 @@
   "categoria": "Blusas",
   "precio": 34000,
   "precioMax": 34000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 34000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 34000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 34000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 34000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 34000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 34000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 34000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 34000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul marino",
+    "precio": 34000,
+    "opciones": [
+     "Azul marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 34000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Blusa sin mangas con cuello bobo y dos amarras anchas frontales, en lino italiano - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/blusa-bernardita-1.jpg",
-   "assets/img/productos/blusa-bernardita-2.jpg"
+   "assets/img/productos/blusa-bernardita/01.jpg",
+   "assets/img/productos/blusa-bernardita/02.jpg",
+   "assets/img/productos/blusa-bernardita/03.jpg",
+   "assets/img/productos/blusa-bernardita/04.jpg",
+   "assets/img/productos/blusa-bernardita/05.jpg",
+   "assets/img/productos/blusa-bernardita/06.jpg",
+   "assets/img/productos/blusa-bernardita/07.jpg",
+   "assets/img/productos/blusa-bernardita/08.jpg",
+   "assets/img/productos/blusa-bernardita/09.jpg",
+   "assets/img/productos/blusa-bernardita/10.jpg",
+   "assets/img/productos/blusa-bernardita/11.jpg",
+   "assets/img/productos/blusa-bernardita/12.jpg"
   ]
  },
  {
@@ -71,9 +1027,104 @@
   "categoria": "Blusas",
   "precio": 42000,
   "precioMax": 42000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul Marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 42000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 42000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 42000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 42000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 42000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 42000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 42000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 42000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul Marino",
+    "precio": 42000,
+    "opciones": [
+     "Azul Marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 42000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Blusa en lino italiano, manga 3/4, botones de concheperla, bolsillos frontales y cuello camisero - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/bi4172-1.jpg",
-   "assets/img/productos/bi4172-2.jpg"
+   "assets/img/productos/bi4172/01.jpg",
+   "assets/img/productos/bi4172/02.jpg",
+   "assets/img/productos/bi4172/03.jpg",
+   "assets/img/productos/bi4172/04.jpg",
+   "assets/img/productos/bi4172/05.jpg",
+   "assets/img/productos/bi4172/06.jpg",
+   "assets/img/productos/bi4172/07.jpg"
   ]
  },
  {
@@ -82,9 +1133,109 @@
   "categoria": "Blusas",
   "precio": 30000,
   "precioMax": 30000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 30000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 30000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 30000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 30000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 30000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 30000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 30000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 30000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul marino",
+    "precio": 30000,
+    "opciones": [
+     "Azul marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 30000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Blusa sin mangas abotonada y con vuelos frontales, en lino italiano - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/blusa-blanca-1.jpg",
-   "assets/img/productos/blusa-blanca-2.jpg"
+   "assets/img/productos/blusa-blanca/01.jpg",
+   "assets/img/productos/blusa-blanca/02.jpg",
+   "assets/img/productos/blusa-blanca/03.jpg",
+   "assets/img/productos/blusa-blanca/04.jpg",
+   "assets/img/productos/blusa-blanca/05.jpg",
+   "assets/img/productos/blusa-blanca/06.jpg",
+   "assets/img/productos/blusa-blanca/07.jpg",
+   "assets/img/productos/blusa-blanca/08.jpg",
+   "assets/img/productos/blusa-blanca/09.jpg",
+   "assets/img/productos/blusa-blanca/10.jpg",
+   "assets/img/productos/blusa-blanca/11.jpg",
+   "assets/img/productos/blusa-blanca/12.jpg"
   ]
  },
  {
@@ -93,9 +1244,108 @@
   "categoria": "Blusas",
   "precio": 32000,
   "precioMax": 32000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 32000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 32000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 32000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 32000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 32000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 32000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 32000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 32000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul marino",
+    "precio": 32000,
+    "opciones": [
+     "Azul marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 32000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Blusa sin mangas con cuello alto y 2 amarras laterales, en lino italiano - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/blusa-camila-1-1.jpg",
-   "assets/img/productos/blusa-camila-1-2.jpg"
+   "assets/img/productos/blusa-camila-1/01.jpg",
+   "assets/img/productos/blusa-camila-1/02.jpg",
+   "assets/img/productos/blusa-camila-1/03.jpg",
+   "assets/img/productos/blusa-camila-1/04.jpg",
+   "assets/img/productos/blusa-camila-1/05.jpg",
+   "assets/img/productos/blusa-camila-1/06.jpg",
+   "assets/img/productos/blusa-camila-1/07.jpg",
+   "assets/img/productos/blusa-camila-1/08.jpg",
+   "assets/img/productos/blusa-camila-1/09.jpg",
+   "assets/img/productos/blusa-camila-1/10.jpg",
+   "assets/img/productos/blusa-camila-1/11.jpg"
   ]
  },
  {
@@ -104,9 +1354,107 @@
   "categoria": "Blusas",
   "precio": 41000,
   "precioMax": 41000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul Marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 41000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 41000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 41000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 41000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 41000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 41000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 41000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 41000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul Marino",
+    "precio": 41000,
+    "opciones": [
+     "Azul Marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 41000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Blusa en lino italiano, manga 3/4, botones de concheperla y cuello camisero - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Marrón, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/bi4156-1.jpg",
-   "assets/img/productos/bi4156-2.jpg"
+   "assets/img/productos/bi4156/01.jpg",
+   "assets/img/productos/bi4156/02.jpg",
+   "assets/img/productos/bi4156/03.jpg",
+   "assets/img/productos/bi4156/04.jpg",
+   "assets/img/productos/bi4156/05.jpg",
+   "assets/img/productos/bi4156/06.jpg",
+   "assets/img/productos/bi4156/07.jpg",
+   "assets/img/productos/bi4156/08.jpg",
+   "assets/img/productos/bi4156/09.jpg",
+   "assets/img/productos/bi4156/10.jpg"
   ]
  },
  {
@@ -115,9 +1463,111 @@
   "categoria": "Blusas",
   "precio": 32000,
   "precioMax": 32000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 32000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 32000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 32000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 32000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 32000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 32000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 32000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 32000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul marino",
+    "precio": 32000,
+    "opciones": [
+     "Azul marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 32000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Blusa sin mangas con escote en V y 1 amarra frontal, en lino italiano - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/blusa-catalina-1.jpg",
-   "assets/img/productos/blusa-catalina-2.jpg"
+   "assets/img/productos/blusa-catalina/01.jpg",
+   "assets/img/productos/blusa-catalina/02.jpg",
+   "assets/img/productos/blusa-catalina/03.jpg",
+   "assets/img/productos/blusa-catalina/04.jpg",
+   "assets/img/productos/blusa-catalina/05.jpg",
+   "assets/img/productos/blusa-catalina/06.jpg",
+   "assets/img/productos/blusa-catalina/07.jpg",
+   "assets/img/productos/blusa-catalina/08.jpg",
+   "assets/img/productos/blusa-catalina/09.jpg",
+   "assets/img/productos/blusa-catalina/10.jpg",
+   "assets/img/productos/blusa-catalina/11.jpg",
+   "assets/img/productos/blusa-catalina/12.jpg",
+   "assets/img/productos/blusa-catalina/13.jpg",
+   "assets/img/productos/blusa-catalina/14.jpg"
   ]
  },
  {
@@ -126,9 +1576,111 @@
   "categoria": "Blusas",
   "precio": 32000,
   "precioMax": 32000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 32000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 32000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 32000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 32000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 32000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 32000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 32000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 32000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul marino",
+    "precio": 32000,
+    "opciones": [
+     "Azul marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 32000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Blusa sin mangas con escote en V y 2 amarras frontales anchas, en lino italiano - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/blusa-clara-1.jpg",
-   "assets/img/productos/blusa-clara-2.jpg"
+   "assets/img/productos/blusa-clara/01.jpg",
+   "assets/img/productos/blusa-clara/02.jpg",
+   "assets/img/productos/blusa-clara/03.jpg",
+   "assets/img/productos/blusa-clara/04.jpg",
+   "assets/img/productos/blusa-clara/05.jpg",
+   "assets/img/productos/blusa-clara/06.jpg",
+   "assets/img/productos/blusa-clara/07.jpg",
+   "assets/img/productos/blusa-clara/08.jpg",
+   "assets/img/productos/blusa-clara/09.jpg",
+   "assets/img/productos/blusa-clara/10.jpg",
+   "assets/img/productos/blusa-clara/11.jpg",
+   "assets/img/productos/blusa-clara/12.jpg",
+   "assets/img/productos/blusa-clara/13.jpg",
+   "assets/img/productos/blusa-clara/14.jpg"
   ]
  },
  {
@@ -137,9 +1689,115 @@
   "categoria": "Blusas",
   "precio": 30000,
   "precioMax": 30000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul Marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 30000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 30000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 30000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 30000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 30000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 30000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 30000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 30000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul Marino",
+    "precio": 30000,
+    "opciones": [
+     "Azul Marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 30000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Blusa en lino italiano, con escote en V, sin mangas y con vuelos. - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Marrón, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/bi4130-1.jpg",
-   "assets/img/productos/bi4130-2.jpg"
+   "assets/img/productos/bi4130/01.jpg",
+   "assets/img/productos/bi4130/02.jpg",
+   "assets/img/productos/bi4130/03.jpg",
+   "assets/img/productos/bi4130/04.jpg",
+   "assets/img/productos/bi4130/05.jpg",
+   "assets/img/productos/bi4130/06.jpg",
+   "assets/img/productos/bi4130/07.jpg",
+   "assets/img/productos/bi4130/08.jpg",
+   "assets/img/productos/bi4130/09.jpg",
+   "assets/img/productos/bi4130/10.jpg",
+   "assets/img/productos/bi4130/11.jpg",
+   "assets/img/productos/bi4130/12.jpg",
+   "assets/img/productos/bi4130/13.jpg",
+   "assets/img/productos/bi4130/14.jpg",
+   "assets/img/productos/bi4130/15.jpg",
+   "assets/img/productos/bi4130/16.jpg",
+   "assets/img/productos/bi4130/17.jpg",
+   "assets/img/productos/bi4130/18.jpg"
   ]
  },
  {
@@ -148,9 +1806,111 @@
   "categoria": "Blusas",
   "precio": 38000,
   "precioMax": 38000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 38000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 38000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 38000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 38000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 38000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 38000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 38000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 38000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul marino",
+    "precio": 38000,
+    "opciones": [
+     "Azul marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 38000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Blusa manga 3/4, abotonada, escote en V y con pisos, en lino italiano - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/blusa-daniela-1.jpg",
-   "assets/img/productos/blusa-daniela-2.jpg"
+   "assets/img/productos/blusa-daniela/01.jpg",
+   "assets/img/productos/blusa-daniela/02.jpg",
+   "assets/img/productos/blusa-daniela/03.jpg",
+   "assets/img/productos/blusa-daniela/04.jpg",
+   "assets/img/productos/blusa-daniela/05.jpg",
+   "assets/img/productos/blusa-daniela/06.jpg",
+   "assets/img/productos/blusa-daniela/07.jpg",
+   "assets/img/productos/blusa-daniela/08.jpg",
+   "assets/img/productos/blusa-daniela/09.jpg",
+   "assets/img/productos/blusa-daniela/10.jpg",
+   "assets/img/productos/blusa-daniela/11.jpg",
+   "assets/img/productos/blusa-daniela/12.jpg",
+   "assets/img/productos/blusa-daniela/13.jpg",
+   "assets/img/productos/blusa-daniela/14.jpg"
   ]
  },
  {
@@ -159,9 +1919,107 @@
   "categoria": "Blusas",
   "precio": 36000,
   "precioMax": 36000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 36000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 36000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 36000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 36000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 36000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 36000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 36000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 36000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul marino",
+    "precio": 36000,
+    "opciones": [
+     "Azul marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 36000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Blusa manga corta, abotonada y con cuello bobo, en lino italiano - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/blusa-diana-1.jpg",
-   "assets/img/productos/blusa-diana-2.jpg"
+   "assets/img/productos/blusa-diana/01.jpg",
+   "assets/img/productos/blusa-diana/02.jpg",
+   "assets/img/productos/blusa-diana/03.jpg",
+   "assets/img/productos/blusa-diana/04.jpg",
+   "assets/img/productos/blusa-diana/05.jpg",
+   "assets/img/productos/blusa-diana/06.jpg",
+   "assets/img/productos/blusa-diana/07.jpg",
+   "assets/img/productos/blusa-diana/08.jpg",
+   "assets/img/productos/blusa-diana/09.jpg",
+   "assets/img/productos/blusa-diana/10.jpg"
   ]
  },
  {
@@ -170,9 +2028,99 @@
   "categoria": "Blusas",
   "precio": 32000,
   "precioMax": 32000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 32000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 32000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 32000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 32000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 32000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 32000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 32000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul marino",
+    "precio": 32000,
+    "opciones": [
+     "Azul marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 32000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Blusa sin manga, con panal de abeja elástico en todo el cuerpo, en lino italiano - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Rosa, Teja, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/blusa-panal-1.jpg",
-   "assets/img/productos/blusa-panal-2.jpg"
+   "assets/img/productos/blusa-panal/01.jpg",
+   "assets/img/productos/blusa-panal/02.jpg",
+   "assets/img/productos/blusa-panal/03.jpg",
+   "assets/img/productos/blusa-panal/04.jpg",
+   "assets/img/productos/blusa-panal/05.jpg",
+   "assets/img/productos/blusa-panal/06.jpg",
+   "assets/img/productos/blusa-panal/07.jpg",
+   "assets/img/productos/blusa-panal/08.jpg",
+   "assets/img/productos/blusa-panal/09.jpg",
+   "assets/img/productos/blusa-panal/10.jpg"
   ]
  },
  {
@@ -181,9 +2129,108 @@
   "categoria": "Blusas",
   "precio": 32000,
   "precioMax": 32000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul Marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 32000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 32000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 32000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 32000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 32000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 32000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 32000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 32000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul Marino",
+    "precio": 32000,
+    "opciones": [
+     "Azul Marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 32000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Blusa en lino italiano, con escote redondo, sin mangas, con espalda abierta y dos amarras ajustables. - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Café con leche, Fango, Marrón, Cammel, Rosa, Fucsia, Coral, Fresa, Teja, Amarillo o mostaza, Bambú, Verde Gucci, Musgo, Celeste, Azul Marino, Gris y Negro.",
   "imagenes": [
-   "assets/img/productos/bi4151-1.jpg",
-   "assets/img/productos/bi4151-2.jpg"
+   "assets/img/productos/bi4151/01.jpg",
+   "assets/img/productos/bi4151/02.jpg",
+   "assets/img/productos/bi4151/03.jpg",
+   "assets/img/productos/bi4151/04.jpg",
+   "assets/img/productos/bi4151/05.jpg",
+   "assets/img/productos/bi4151/06.jpg",
+   "assets/img/productos/bi4151/07.jpg",
+   "assets/img/productos/bi4151/08.jpg",
+   "assets/img/productos/bi4151/09.jpg",
+   "assets/img/productos/bi4151/10.jpg",
+   "assets/img/productos/bi4151/11.jpg"
   ]
  },
  {
@@ -192,9 +2239,114 @@
   "categoria": "Blusas",
   "precio": 32000,
   "precioMax": 32000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul Marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 32000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 32000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 32000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 32000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 32000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 32000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 32000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 32000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul Marino",
+    "precio": 32000,
+    "opciones": [
+     "Azul Marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 32000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Blusa en lino italiano y algodón. Manga corta y escote en V. Colores de lino deslavados. - Compoosición: 50% lino y 50% algodón - Talla: Talla única - Colores: Blanco, Beige, Fango, Marrón, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/bi4103-1.jpg",
-   "assets/img/productos/bi4103-2.jpg"
+   "assets/img/productos/bi4103/01.jpg",
+   "assets/img/productos/bi4103/02.jpg",
+   "assets/img/productos/bi4103/03.jpg",
+   "assets/img/productos/bi4103/04.jpg",
+   "assets/img/productos/bi4103/05.jpg",
+   "assets/img/productos/bi4103/06.jpg",
+   "assets/img/productos/bi4103/07.jpg",
+   "assets/img/productos/bi4103/08.jpg",
+   "assets/img/productos/bi4103/09.jpg",
+   "assets/img/productos/bi4103/10.jpg",
+   "assets/img/productos/bi4103/11.jpg",
+   "assets/img/productos/bi4103/12.jpg",
+   "assets/img/productos/bi4103/13.jpg",
+   "assets/img/productos/bi4103/14.jpg",
+   "assets/img/productos/bi4103/15.jpg",
+   "assets/img/productos/bi4103/16.jpg",
+   "assets/img/productos/bi4103/17.jpg"
   ]
  },
  {
@@ -203,9 +2355,181 @@
   "categoria": "Otros",
   "precio": 7000,
   "precioMax": 7000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Beige",
+     "Amarillo",
+     "Terracota",
+     "Naranja",
+     "Camel",
+     "Fango",
+     "Marrón",
+     "Rosa",
+     "Fucsia",
+     "Sandía",
+     "Celeste",
+     "Azul marino",
+     "Verde Manzana",
+     "Verde Oliva",
+     "Musgo",
+     "Gris",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 7000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 7000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Amarillo",
+    "precio": 7000,
+    "opciones": [
+     "Amarillo"
+    ]
+   },
+   {
+    "titulo": "Terracota",
+    "precio": 7000,
+    "opciones": [
+     "Terracota"
+    ]
+   },
+   {
+    "titulo": "Naranja",
+    "precio": 7000,
+    "opciones": [
+     "Naranja"
+    ]
+   },
+   {
+    "titulo": "Camel",
+    "precio": 7000,
+    "opciones": [
+     "Camel"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 7000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Marrón",
+    "precio": 7000,
+    "opciones": [
+     "Marrón"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 7000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Fucsia",
+    "precio": 7000,
+    "opciones": [
+     "Fucsia"
+    ]
+   },
+   {
+    "titulo": "Sandía",
+    "precio": 7000,
+    "opciones": [
+     "Sandía"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 7000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul marino",
+    "precio": 7000,
+    "opciones": [
+     "Azul marino"
+    ]
+   },
+   {
+    "titulo": "Verde Manzana",
+    "precio": 7000,
+    "opciones": [
+     "Verde Manzana"
+    ]
+   },
+   {
+    "titulo": "Verde Oliva",
+    "precio": 7000,
+    "opciones": [
+     "Verde Oliva"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 7000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Gris",
+    "precio": 7000,
+    "opciones": [
+     "Gris"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 7000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Coleta cuadrada, 100% de lino, con elástico interior y género doble. Ideal para este verano. Colores disponibles: blanco, beige, amarillo, terracota, naranja, camel, fango, marrón, rosa, fucsia, sandía, celeste, azul marino, verde oliva, verde manzana, musgo, gris y negro.",
   "imagenes": [
-   "assets/img/productos/coleta-1.jpg",
-   "assets/img/productos/coleta-2.jpg"
+   "assets/img/productos/coleta/01.jpg",
+   "assets/img/productos/coleta/02.jpg",
+   "assets/img/productos/coleta/03.jpg",
+   "assets/img/productos/coleta/04.jpg",
+   "assets/img/productos/coleta/05.jpg",
+   "assets/img/productos/coleta/06.jpg",
+   "assets/img/productos/coleta/07.jpg",
+   "assets/img/productos/coleta/08.jpg",
+   "assets/img/productos/coleta/09.jpg",
+   "assets/img/productos/coleta/10.jpg",
+   "assets/img/productos/coleta/11.jpg",
+   "assets/img/productos/coleta/12.jpg",
+   "assets/img/productos/coleta/13.jpg",
+   "assets/img/productos/coleta/14.jpg",
+   "assets/img/productos/coleta/15.jpg",
+   "assets/img/productos/coleta/16.jpg",
+   "assets/img/productos/coleta/17.jpg",
+   "assets/img/productos/coleta/18.jpg",
+   "assets/img/productos/coleta/19.jpg",
+   "assets/img/productos/coleta/20.jpg"
   ]
  },
  {
@@ -214,9 +2538,115 @@
   "categoria": "Faldas y Shorts",
   "precio": 42000,
   "precioMax": 42000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Burdeo",
+     "Teja",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 42000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 42000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 42000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 42000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 42000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 42000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 42000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 42000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul marino",
+    "precio": 42000,
+    "opciones": [
+     "Azul marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 42000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Falda larga con elástico en la cintura y cortada al sesgo, en lino italiano - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Marrón, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro. COD: BI6530",
   "imagenes": [
-   "assets/img/productos/falda-ana-1.jpg",
-   "assets/img/productos/falda-ana-2.jpg"
+   "assets/img/productos/falda-ana/01.jpg",
+   "assets/img/productos/falda-ana/02.jpg",
+   "assets/img/productos/falda-ana/03.jpg",
+   "assets/img/productos/falda-ana/04.jpg",
+   "assets/img/productos/falda-ana/05.jpg",
+   "assets/img/productos/falda-ana/06.jpg",
+   "assets/img/productos/falda-ana/07.jpg",
+   "assets/img/productos/falda-ana/08.jpg",
+   "assets/img/productos/falda-ana/09.jpg",
+   "assets/img/productos/falda-ana/10.jpg",
+   "assets/img/productos/falda-ana/11.jpg",
+   "assets/img/productos/falda-ana/12.jpg",
+   "assets/img/productos/falda-ana/13.jpg",
+   "assets/img/productos/falda-ana/14.jpg",
+   "assets/img/productos/falda-ana/15.jpg",
+   "assets/img/productos/falda-ana/16.jpg",
+   "assets/img/productos/falda-ana/17.jpg",
+   "assets/img/productos/falda-ana/18.jpg"
   ]
  },
  {
@@ -225,9 +2655,121 @@
   "categoria": "Faldas y Shorts",
   "precio": 32000,
   "precioMax": 32000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 32000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 32000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 32000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 32000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 32000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 32000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 32000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 32000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul marino",
+    "precio": 32000,
+    "opciones": [
+     "Azul marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 32000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Falda short corta con elástico en la cintura y con vuelo en la basta inferior en lino italiano - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Marrón, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/falda-beatriz-1.jpg",
-   "assets/img/productos/falda-beatriz-2.jpg"
+   "assets/img/productos/falda-beatriz/01.jpg",
+   "assets/img/productos/falda-beatriz/02.jpg",
+   "assets/img/productos/falda-beatriz/03.jpg",
+   "assets/img/productos/falda-beatriz/04.jpg",
+   "assets/img/productos/falda-beatriz/05.jpg",
+   "assets/img/productos/falda-beatriz/06.jpg",
+   "assets/img/productos/falda-beatriz/07.jpg",
+   "assets/img/productos/falda-beatriz/08.jpg",
+   "assets/img/productos/falda-beatriz/09.jpg",
+   "assets/img/productos/falda-beatriz/10.jpg",
+   "assets/img/productos/falda-beatriz/11.jpg",
+   "assets/img/productos/falda-beatriz/12.jpg",
+   "assets/img/productos/falda-beatriz/13.jpg",
+   "assets/img/productos/falda-beatriz/14.jpg",
+   "assets/img/productos/falda-beatriz/15.jpg",
+   "assets/img/productos/falda-beatriz/16.jpg",
+   "assets/img/productos/falda-beatriz/17.jpg",
+   "assets/img/productos/falda-beatriz/18.jpg",
+   "assets/img/productos/falda-beatriz/19.jpg",
+   "assets/img/productos/falda-beatriz/20.jpg",
+   "assets/img/productos/falda-beatriz/21.jpg",
+   "assets/img/productos/falda-beatriz/22.jpg",
+   "assets/img/productos/falda-beatriz/23.jpg",
+   "assets/img/productos/falda-beatriz/24.jpg"
   ]
  },
  {
@@ -236,9 +2778,125 @@
   "categoria": "Faldas y Shorts",
   "precio": 42000,
   "precioMax": 42000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 42000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 42000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 42000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 42000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 42000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 42000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 42000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 42000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul marino",
+    "precio": 42000,
+    "opciones": [
+     "Azul marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 42000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Falda larga con elástico en la cintura y cortada al sesgo, en lino italiano - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/falda-carolina-1.jpg",
-   "assets/img/productos/falda-carolina-2.jpg"
+   "assets/img/productos/falda-carolina/01.jpg",
+   "assets/img/productos/falda-carolina/02.jpg",
+   "assets/img/productos/falda-carolina/03.jpg",
+   "assets/img/productos/falda-carolina/04.jpg",
+   "assets/img/productos/falda-carolina/05.jpg",
+   "assets/img/productos/falda-carolina/06.jpg",
+   "assets/img/productos/falda-carolina/07.jpg",
+   "assets/img/productos/falda-carolina/08.jpg",
+   "assets/img/productos/falda-carolina/09.jpg",
+   "assets/img/productos/falda-carolina/10.jpg",
+   "assets/img/productos/falda-carolina/11.jpg",
+   "assets/img/productos/falda-carolina/12.jpg",
+   "assets/img/productos/falda-carolina/13.jpg",
+   "assets/img/productos/falda-carolina/14.jpg",
+   "assets/img/productos/falda-carolina/15.jpg",
+   "assets/img/productos/falda-carolina/16.jpg",
+   "assets/img/productos/falda-carolina/17.jpg",
+   "assets/img/productos/falda-carolina/18.jpg",
+   "assets/img/productos/falda-carolina/19.jpg",
+   "assets/img/productos/falda-carolina/20.jpg",
+   "assets/img/productos/falda-carolina/21.jpg",
+   "assets/img/productos/falda-carolina/22.jpg",
+   "assets/img/productos/falda-carolina/23.jpg",
+   "assets/img/productos/falda-carolina/24.jpg",
+   "assets/img/productos/falda-carolina/25.jpg",
+   "assets/img/productos/falda-carolina/26.jpg",
+   "assets/img/productos/falda-carolina/27.jpg",
+   "assets/img/productos/falda-carolina/28.jpg"
   ]
  },
  {
@@ -247,9 +2905,206 @@
   "categoria": "Faldas y Shorts",
   "precio": 32000,
   "precioMax": 32000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul marino",
+     "Negro"
+    ]
+   },
+   {
+    "nombre": "Talla",
+    "valores": [
+     "S/M",
+     "L/XL"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco / S/M",
+    "precio": 32000,
+    "opciones": [
+     "Blanco",
+     "S/M"
+    ]
+   },
+   {
+    "titulo": "Blanco / L/XL",
+    "precio": 32000,
+    "opciones": [
+     "Blanco",
+     "L/XL"
+    ]
+   },
+   {
+    "titulo": "Rosa / S/M",
+    "precio": 32000,
+    "opciones": [
+     "Rosa",
+     "S/M"
+    ]
+   },
+   {
+    "titulo": "Rosa / L/XL",
+    "precio": 32000,
+    "opciones": [
+     "Rosa",
+     "L/XL"
+    ]
+   },
+   {
+    "titulo": "Teja / S/M",
+    "precio": 32000,
+    "opciones": [
+     "Teja",
+     "S/M"
+    ]
+   },
+   {
+    "titulo": "Teja / L/XL",
+    "precio": 32000,
+    "opciones": [
+     "Teja",
+     "L/XL"
+    ]
+   },
+   {
+    "titulo": "Burdeo / S/M",
+    "precio": 32000,
+    "opciones": [
+     "Burdeo",
+     "S/M"
+    ]
+   },
+   {
+    "titulo": "Burdeo / L/XL",
+    "precio": 32000,
+    "opciones": [
+     "Burdeo",
+     "L/XL"
+    ]
+   },
+   {
+    "titulo": "Beige / S/M",
+    "precio": 32000,
+    "opciones": [
+     "Beige",
+     "S/M"
+    ]
+   },
+   {
+    "titulo": "Beige / L/XL",
+    "precio": 32000,
+    "opciones": [
+     "Beige",
+     "L/XL"
+    ]
+   },
+   {
+    "titulo": "Fango / S/M",
+    "precio": 32000,
+    "opciones": [
+     "Fango",
+     "S/M"
+    ]
+   },
+   {
+    "titulo": "Fango / L/XL",
+    "precio": 32000,
+    "opciones": [
+     "Fango",
+     "L/XL"
+    ]
+   },
+   {
+    "titulo": "Musgo / S/M",
+    "precio": 32000,
+    "opciones": [
+     "Musgo",
+     "S/M"
+    ]
+   },
+   {
+    "titulo": "Musgo / L/XL",
+    "precio": 32000,
+    "opciones": [
+     "Musgo",
+     "L/XL"
+    ]
+   },
+   {
+    "titulo": "Celeste / S/M",
+    "precio": 32000,
+    "opciones": [
+     "Celeste",
+     "S/M"
+    ]
+   },
+   {
+    "titulo": "Celeste / L/XL",
+    "precio": 32000,
+    "opciones": [
+     "Celeste",
+     "L/XL"
+    ]
+   },
+   {
+    "titulo": "Azul marino / S/M",
+    "precio": 32000,
+    "opciones": [
+     "Azul marino",
+     "S/M"
+    ]
+   },
+   {
+    "titulo": "Azul marino / L/XL",
+    "precio": 32000,
+    "opciones": [
+     "Azul marino",
+     "L/XL"
+    ]
+   },
+   {
+    "titulo": "Negro / S/M",
+    "precio": 32000,
+    "opciones": [
+     "Negro",
+     "S/M"
+    ]
+   },
+   {
+    "titulo": "Negro / L/XL",
+    "precio": 32000,
+    "opciones": [
+     "Negro",
+     "L/XL"
+    ]
+   }
+  ],
+  "descripcion": "Falda corta con vuelo en lino italiano con cintura elasticada. - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Marrón, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/falda-formentera-1.jpg",
-   "assets/img/productos/falda-formentera-2.jpg"
+   "assets/img/productos/falda-formentera/01.jpg",
+   "assets/img/productos/falda-formentera/02.jpg",
+   "assets/img/productos/falda-formentera/03.jpg",
+   "assets/img/productos/falda-formentera/04.jpg",
+   "assets/img/productos/falda-formentera/05.jpg",
+   "assets/img/productos/falda-formentera/06.jpg",
+   "assets/img/productos/falda-formentera/07.jpg",
+   "assets/img/productos/falda-formentera/08.jpg",
+   "assets/img/productos/falda-formentera/09.jpg",
+   "assets/img/productos/falda-formentera/10.jpg",
+   "assets/img/productos/falda-formentera/11.jpg",
+   "assets/img/productos/falda-formentera/12.jpg"
   ]
  },
  {
@@ -258,9 +3113,99 @@
   "categoria": "Faldas y Shorts",
   "precio": 44000,
   "precioMax": 44000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 44000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 44000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 44000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 44000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 44000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 44000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 44000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul marino",
+    "precio": 44000,
+    "opciones": [
+     "Azul marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 44000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Falda larga, con panal de abeja elástico en la cintura y vuelo grande inferior, en lino italiano - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Rosa, Teja, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/falda-panal-1.jpg",
-   "assets/img/productos/falda-panal-2.jpg"
+   "assets/img/productos/falda-panal/01.jpg",
+   "assets/img/productos/falda-panal/02.jpg",
+   "assets/img/productos/falda-panal/03.jpg",
+   "assets/img/productos/falda-panal/04.jpg",
+   "assets/img/productos/falda-panal/05.jpg",
+   "assets/img/productos/falda-panal/06.jpg",
+   "assets/img/productos/falda-panal/07.jpg",
+   "assets/img/productos/falda-panal/08.jpg",
+   "assets/img/productos/falda-panal/09.jpg",
+   "assets/img/productos/falda-panal/10.jpg"
   ]
  },
  {
@@ -269,9 +3214,126 @@
   "categoria": "Otros",
   "precio": 10000,
   "precioMax": 10000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Beige",
+     "Amarillo",
+     "Rosa",
+     "Sandía",
+     "Fucsia",
+     "Rojo",
+     "Celeste",
+     "Azul",
+     "Azul marino"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 10000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 10000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Amarillo",
+    "precio": 10000,
+    "opciones": [
+     "Amarillo"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 10000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Sandía",
+    "precio": 10000,
+    "opciones": [
+     "Sandía"
+    ]
+   },
+   {
+    "titulo": "Fucsia",
+    "precio": 10000,
+    "opciones": [
+     "Fucsia"
+    ]
+   },
+   {
+    "titulo": "Rojo",
+    "precio": 10000,
+    "opciones": [
+     "Rojo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 10000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul",
+    "precio": 10000,
+    "opciones": [
+     "Azul"
+    ]
+   },
+   {
+    "titulo": "Azul marino",
+    "precio": 10000,
+    "opciones": [
+     "Azul marino"
+    ]
+   }
+  ],
+  "descripcion": "Pinza de flor, con pétalos de lino. Pinza plástica transparente, con dos flores idénticas, una por lado. Medida: 12 cm de diámetro. Colores: Blanca, Beige, Amarillo, Rosa, Sandía, Fucsia, Roja, Celeste, Jeans, Azul Marino.",
   "imagenes": [
-   "assets/img/productos/flor-1.jpg",
-   "assets/img/productos/flor-2.jpg"
+   "assets/img/productos/flor/01.jpg",
+   "assets/img/productos/flor/02.jpg",
+   "assets/img/productos/flor/03.jpg",
+   "assets/img/productos/flor/04.jpg",
+   "assets/img/productos/flor/05.jpg",
+   "assets/img/productos/flor/06.jpg",
+   "assets/img/productos/flor/07.jpg",
+   "assets/img/productos/flor/08.jpg",
+   "assets/img/productos/flor/09.jpg",
+   "assets/img/productos/flor/10.jpg",
+   "assets/img/productos/flor/11.jpg",
+   "assets/img/productos/flor/12.jpg",
+   "assets/img/productos/flor/13.jpg",
+   "assets/img/productos/flor/14.jpg",
+   "assets/img/productos/flor/15.jpg",
+   "assets/img/productos/flor/16.jpg",
+   "assets/img/productos/flor/17.jpg",
+   "assets/img/productos/flor/18.jpg",
+   "assets/img/productos/flor/19.jpg",
+   "assets/img/productos/flor/20.jpg",
+   "assets/img/productos/flor/21.jpg",
+   "assets/img/productos/flor/22.jpg",
+   "assets/img/productos/flor/23.jpg",
+   "assets/img/productos/flor/24.jpg",
+   "assets/img/productos/flor/25.jpg",
+   "assets/img/productos/flor/26.jpg",
+   "assets/img/productos/flor/27.jpg",
+   "assets/img/productos/flor/28.jpg",
+   "assets/img/productos/flor/29.jpg"
   ]
  },
  {
@@ -280,9 +3342,117 @@
   "categoria": "Pantalones",
   "precio": 42000,
   "precioMax": 42000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 42000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 42000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 42000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 42000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 42000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 42000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 42000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 42000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul marino",
+    "precio": 42000,
+    "opciones": [
+     "Azul marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 42000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Pantalón palazzo tiro alto en lino italiano con cintura elasticada. - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/pantalon-antonia-1.jpg",
-   "assets/img/productos/pantalon-antonia-2.jpg"
+   "assets/img/productos/pantalon-antonia/01.jpg",
+   "assets/img/productos/pantalon-antonia/02.jpg",
+   "assets/img/productos/pantalon-antonia/03.jpg",
+   "assets/img/productos/pantalon-antonia/04.jpg",
+   "assets/img/productos/pantalon-antonia/05.jpg",
+   "assets/img/productos/pantalon-antonia/06.jpg",
+   "assets/img/productos/pantalon-antonia/07.jpg",
+   "assets/img/productos/pantalon-antonia/08.jpg",
+   "assets/img/productos/pantalon-antonia/09.jpg",
+   "assets/img/productos/pantalon-antonia/10.jpg",
+   "assets/img/productos/pantalon-antonia/11.jpg",
+   "assets/img/productos/pantalon-antonia/12.jpg",
+   "assets/img/productos/pantalon-antonia/13.jpg",
+   "assets/img/productos/pantalon-antonia/14.jpg",
+   "assets/img/productos/pantalon-antonia/15.jpg",
+   "assets/img/productos/pantalon-antonia/16.jpg",
+   "assets/img/productos/pantalon-antonia/17.jpg",
+   "assets/img/productos/pantalon-antonia/18.jpg",
+   "assets/img/productos/pantalon-antonia/19.jpg",
+   "assets/img/productos/pantalon-antonia/20.jpg"
   ]
  },
  {
@@ -291,9 +3461,113 @@
   "categoria": "Pantalones",
   "precio": 42000,
   "precioMax": 42000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul Marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 42000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 42000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 42000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 42000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 42000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 42000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 42000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 42000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul Marino",
+    "precio": 42000,
+    "opciones": [
+     "Azul Marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 42000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Pantalón palazzo en lino italiano. Cintura elasticada y colores con efecto deslavado. - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Marrón, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/bi4104-1.jpg",
-   "assets/img/productos/bi4104-2.jpg"
+   "assets/img/productos/bi4104/01.jpg",
+   "assets/img/productos/bi4104/02.jpg",
+   "assets/img/productos/bi4104/03.jpg",
+   "assets/img/productos/bi4104/04.jpg",
+   "assets/img/productos/bi4104/05.jpg",
+   "assets/img/productos/bi4104/06.jpg",
+   "assets/img/productos/bi4104/07.jpg",
+   "assets/img/productos/bi4104/08.jpg",
+   "assets/img/productos/bi4104/09.jpg",
+   "assets/img/productos/bi4104/10.jpg",
+   "assets/img/productos/bi4104/11.jpg",
+   "assets/img/productos/bi4104/12.jpg",
+   "assets/img/productos/bi4104/13.jpg",
+   "assets/img/productos/bi4104/14.jpg",
+   "assets/img/productos/bi4104/15.jpg",
+   "assets/img/productos/bi4104/16.jpg"
   ]
  },
  {
@@ -302,9 +3576,109 @@
   "categoria": "Pantalones",
   "precio": 44000,
   "precioMax": 44000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul Marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 44000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 44000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 44000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 44000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 44000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 44000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 44000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 44000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul Marino",
+    "precio": 44000,
+    "opciones": [
+     "Azul Marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 44000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Pantalón palazzo tiro alto en lino italiano con cintura elasticada. - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/bi4167-1.jpg",
-   "assets/img/productos/bi4167-2.jpg"
+   "assets/img/productos/bi4167/01.jpg",
+   "assets/img/productos/bi4167/02.jpg",
+   "assets/img/productos/bi4167/03.jpg",
+   "assets/img/productos/bi4167/04.jpg",
+   "assets/img/productos/bi4167/05.jpg",
+   "assets/img/productos/bi4167/06.jpg",
+   "assets/img/productos/bi4167/07.jpg",
+   "assets/img/productos/bi4167/08.jpg",
+   "assets/img/productos/bi4167/09.jpg",
+   "assets/img/productos/bi4167/10.jpg",
+   "assets/img/productos/bi4167/11.jpg",
+   "assets/img/productos/bi4167/12.jpg"
   ]
  },
  {
@@ -313,9 +3687,108 @@
   "categoria": "Pantalones",
   "precio": 42000,
   "precioMax": 42000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul Marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 42000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 42000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 42000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 42000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 42000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 42000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 42000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 42000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul Marino",
+    "precio": 42000,
+    "opciones": [
+     "Azul Marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 42000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Pantalón palazzo en lino italiano. Cintura elasticada con flecos en la basta. - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Marrón, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/bi4159-1.jpg",
-   "assets/img/productos/bi4159-2.jpg"
+   "assets/img/productos/bi4159/01.jpg",
+   "assets/img/productos/bi4159/02.jpg",
+   "assets/img/productos/bi4159/03.jpg",
+   "assets/img/productos/bi4159/04.jpg",
+   "assets/img/productos/bi4159/05.jpg",
+   "assets/img/productos/bi4159/06.jpg",
+   "assets/img/productos/bi4159/07.jpg",
+   "assets/img/productos/bi4159/08.jpg",
+   "assets/img/productos/bi4159/09.jpg",
+   "assets/img/productos/bi4159/10.jpg",
+   "assets/img/productos/bi4159/11.jpg"
   ]
  },
  {
@@ -324,9 +3797,125 @@
   "categoria": "Faldas y Shorts",
   "precio": 32000,
   "precioMax": 32000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 32000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 32000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 32000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 32000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 32000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 32000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 32000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 32000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul marino",
+    "precio": 32000,
+    "opciones": [
+     "Azul marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 32000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Bermuda corta con bolsillos y elástico en la cintura. - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/short-cecilia-1.jpg",
-   "assets/img/productos/short-cecilia-2.jpg"
+   "assets/img/productos/short-cecilia/01.jpg",
+   "assets/img/productos/short-cecilia/02.jpg",
+   "assets/img/productos/short-cecilia/03.jpg",
+   "assets/img/productos/short-cecilia/04.jpg",
+   "assets/img/productos/short-cecilia/05.jpg",
+   "assets/img/productos/short-cecilia/06.jpg",
+   "assets/img/productos/short-cecilia/07.jpg",
+   "assets/img/productos/short-cecilia/08.jpg",
+   "assets/img/productos/short-cecilia/09.jpg",
+   "assets/img/productos/short-cecilia/10.jpg",
+   "assets/img/productos/short-cecilia/11.jpg",
+   "assets/img/productos/short-cecilia/12.jpg",
+   "assets/img/productos/short-cecilia/13.jpg",
+   "assets/img/productos/short-cecilia/14.jpg",
+   "assets/img/productos/short-cecilia/15.jpg",
+   "assets/img/productos/short-cecilia/16.jpg",
+   "assets/img/productos/short-cecilia/17.jpg",
+   "assets/img/productos/short-cecilia/18.jpg",
+   "assets/img/productos/short-cecilia/19.jpg",
+   "assets/img/productos/short-cecilia/20.jpg",
+   "assets/img/productos/short-cecilia/21.jpg",
+   "assets/img/productos/short-cecilia/22.jpg",
+   "assets/img/productos/short-cecilia/23.jpg",
+   "assets/img/productos/short-cecilia/24.jpg",
+   "assets/img/productos/short-cecilia/25.jpg",
+   "assets/img/productos/short-cecilia/26.jpg",
+   "assets/img/productos/short-cecilia/27.jpg",
+   "assets/img/productos/short-cecilia/28.jpg"
   ]
  },
  {
@@ -335,9 +3924,113 @@
   "categoria": "Blazer y Vest",
   "precio": 40000,
   "precioMax": 40000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 40000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 40000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 40000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 40000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 40000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 40000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 40000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 40000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul marino",
+    "precio": 40000,
+    "opciones": [
+     "Azul marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 40000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Vest sin mangas con un botón frontal, en lino italiano - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/vest-claudia-1.jpg",
-   "assets/img/productos/vest-claudia-2.jpg"
+   "assets/img/productos/vest-claudia/01.jpg",
+   "assets/img/productos/vest-claudia/02.jpg",
+   "assets/img/productos/vest-claudia/03.jpg",
+   "assets/img/productos/vest-claudia/04.jpg",
+   "assets/img/productos/vest-claudia/05.jpg",
+   "assets/img/productos/vest-claudia/06.jpg",
+   "assets/img/productos/vest-claudia/07.jpg",
+   "assets/img/productos/vest-claudia/08.jpg",
+   "assets/img/productos/vest-claudia/09.jpg",
+   "assets/img/productos/vest-claudia/10.jpg",
+   "assets/img/productos/vest-claudia/11.jpg",
+   "assets/img/productos/vest-claudia/12.jpg",
+   "assets/img/productos/vest-claudia/13.jpg",
+   "assets/img/productos/vest-claudia/14.jpg",
+   "assets/img/productos/vest-claudia/15.jpg",
+   "assets/img/productos/vest-claudia/16.jpg"
   ]
  },
  {
@@ -346,9 +4039,109 @@
   "categoria": "Blazer y Vest",
   "precio": 30000,
   "precioMax": 30000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 30000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 30000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 30000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 30000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 30000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 30000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 30000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 30000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul marino",
+    "precio": 30000,
+    "opciones": [
+     "Azul marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 30000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Vest sin mangas abotonado, en lino italiano - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/blusa-blanca-copia-1.jpg",
-   "assets/img/productos/blusa-blanca-copia-2.jpg"
+   "assets/img/productos/blusa-blanca-copia/01.jpg",
+   "assets/img/productos/blusa-blanca-copia/02.jpg",
+   "assets/img/productos/blusa-blanca-copia/03.jpg",
+   "assets/img/productos/blusa-blanca-copia/04.jpg",
+   "assets/img/productos/blusa-blanca-copia/05.jpg",
+   "assets/img/productos/blusa-blanca-copia/06.jpg",
+   "assets/img/productos/blusa-blanca-copia/07.jpg",
+   "assets/img/productos/blusa-blanca-copia/08.jpg",
+   "assets/img/productos/blusa-blanca-copia/09.jpg",
+   "assets/img/productos/blusa-blanca-copia/10.jpg",
+   "assets/img/productos/blusa-blanca-copia/11.jpg",
+   "assets/img/productos/blusa-blanca-copia/12.jpg"
   ]
  },
  {
@@ -357,9 +4150,117 @@
   "categoria": "Vestidos",
   "precio": 45000,
   "precioMax": 45000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 45000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 45000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 45000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 45000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 45000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 45000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 45000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 45000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul marino",
+    "precio": 45000,
+    "opciones": [
+     "Azul marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 45000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Vestido camisero corto con manga 3/4, en lino italiano - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Marrón, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/vestido-adela-1.jpg",
-   "assets/img/productos/vestido-adela-2.jpg"
+   "assets/img/productos/vestido-adela/01.jpg",
+   "assets/img/productos/vestido-adela/02.jpg",
+   "assets/img/productos/vestido-adela/03.jpg",
+   "assets/img/productos/vestido-adela/04.jpg",
+   "assets/img/productos/vestido-adela/05.jpg",
+   "assets/img/productos/vestido-adela/06.jpg",
+   "assets/img/productos/vestido-adela/07.jpg",
+   "assets/img/productos/vestido-adela/08.jpg",
+   "assets/img/productos/vestido-adela/09.jpg",
+   "assets/img/productos/vestido-adela/10.jpg",
+   "assets/img/productos/vestido-adela/11.jpg",
+   "assets/img/productos/vestido-adela/12.jpg",
+   "assets/img/productos/vestido-adela/13.jpg",
+   "assets/img/productos/vestido-adela/14.jpg",
+   "assets/img/productos/vestido-adela/15.jpg",
+   "assets/img/productos/vestido-adela/16.jpg",
+   "assets/img/productos/vestido-adela/17.jpg",
+   "assets/img/productos/vestido-adela/18.jpg",
+   "assets/img/productos/vestido-adela/19.jpg",
+   "assets/img/productos/vestido-adela/20.jpg"
   ]
  },
  {
@@ -368,9 +4269,116 @@
   "categoria": "Vestidos",
   "precio": 46000,
   "precioMax": 46000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 46000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 46000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 46000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 46000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 46000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 46000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 46000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 46000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul marino",
+    "precio": 46000,
+    "opciones": [
+     "Azul marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 46000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Vestido corto con manga corta y abotonado hasta la cintura, en lino italiano - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Marrón, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/vestido-alidiq-1.jpg",
-   "assets/img/productos/vestido-alidiq-2.jpg"
+   "assets/img/productos/vestido-alidiq/01.jpg",
+   "assets/img/productos/vestido-alidiq/02.jpg",
+   "assets/img/productos/vestido-alidiq/03.jpg",
+   "assets/img/productos/vestido-alidiq/04.jpg",
+   "assets/img/productos/vestido-alidiq/05.jpg",
+   "assets/img/productos/vestido-alidiq/06.jpg",
+   "assets/img/productos/vestido-alidiq/07.jpg",
+   "assets/img/productos/vestido-alidiq/08.jpg",
+   "assets/img/productos/vestido-alidiq/09.jpg",
+   "assets/img/productos/vestido-alidiq/10.jpg",
+   "assets/img/productos/vestido-alidiq/11.jpg",
+   "assets/img/productos/vestido-alidiq/12.jpg",
+   "assets/img/productos/vestido-alidiq/13.jpg",
+   "assets/img/productos/vestido-alidiq/14.jpg",
+   "assets/img/productos/vestido-alidiq/15.jpg",
+   "assets/img/productos/vestido-alidiq/16.jpg",
+   "assets/img/productos/vestido-alidiq/17.jpg",
+   "assets/img/productos/vestido-alidiq/18.jpg",
+   "assets/img/productos/vestido-alidiq/19.jpg"
   ]
  },
  {
@@ -379,9 +4387,115 @@
   "categoria": "Vestidos",
   "precio": 42000,
   "precioMax": 42000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 42000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 42000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 42000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 42000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 42000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 42000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 42000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 42000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul marino",
+    "precio": 42000,
+    "opciones": [
+     "Azul marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 42000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Vestido corto con manga con vuelo, escote en V, en lino italiano - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Marrón, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/vestido-andrea-1.jpg",
-   "assets/img/productos/vestido-andrea-2.jpg"
+   "assets/img/productos/vestido-andrea/01.jpg",
+   "assets/img/productos/vestido-andrea/02.jpg",
+   "assets/img/productos/vestido-andrea/03.jpg",
+   "assets/img/productos/vestido-andrea/04.jpg",
+   "assets/img/productos/vestido-andrea/05.jpg",
+   "assets/img/productos/vestido-andrea/06.jpg",
+   "assets/img/productos/vestido-andrea/07.jpg",
+   "assets/img/productos/vestido-andrea/08.jpg",
+   "assets/img/productos/vestido-andrea/09.jpg",
+   "assets/img/productos/vestido-andrea/10.jpg",
+   "assets/img/productos/vestido-andrea/11.jpg",
+   "assets/img/productos/vestido-andrea/12.jpg",
+   "assets/img/productos/vestido-andrea/13.jpg",
+   "assets/img/productos/vestido-andrea/14.jpg",
+   "assets/img/productos/vestido-andrea/15.jpg",
+   "assets/img/productos/vestido-andrea/16.jpg",
+   "assets/img/productos/vestido-andrea/17.jpg",
+   "assets/img/productos/vestido-andrea/18.jpg"
   ]
  },
  {
@@ -390,9 +4504,114 @@
   "categoria": "Vestidos",
   "precio": 55000,
   "precioMax": 55000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 55000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 55000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 55000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 55000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 55000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 55000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 55000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 55000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul marino",
+    "precio": 55000,
+    "opciones": [
+     "Azul marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 55000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Vestido camisero largo con manga 3/4, en lino italiano - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Marrón, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/vestido-aurora-1.jpg",
-   "assets/img/productos/vestido-aurora-2.jpg"
+   "assets/img/productos/vestido-aurora/01.jpg",
+   "assets/img/productos/vestido-aurora/02.jpg",
+   "assets/img/productos/vestido-aurora/03.jpg",
+   "assets/img/productos/vestido-aurora/04.jpg",
+   "assets/img/productos/vestido-aurora/05.jpg",
+   "assets/img/productos/vestido-aurora/06.jpg",
+   "assets/img/productos/vestido-aurora/07.jpg",
+   "assets/img/productos/vestido-aurora/08.jpg",
+   "assets/img/productos/vestido-aurora/09.jpg",
+   "assets/img/productos/vestido-aurora/10.jpg",
+   "assets/img/productos/vestido-aurora/11.jpg",
+   "assets/img/productos/vestido-aurora/12.jpg",
+   "assets/img/productos/vestido-aurora/13.jpg",
+   "assets/img/productos/vestido-aurora/14.jpg",
+   "assets/img/productos/vestido-aurora/15.jpg",
+   "assets/img/productos/vestido-aurora/16.jpg",
+   "assets/img/productos/vestido-aurora/17.jpg"
   ]
  },
  {
@@ -401,9 +4620,108 @@
   "categoria": "Vestidos",
   "precio": 50000,
   "precioMax": 50000,
+  "opciones": [
+   {
+    "nombre": "Color",
+    "valores": [
+     "Blanco",
+     "Rosa",
+     "Teja",
+     "Burdeo",
+     "Beige",
+     "Fango",
+     "Musgo",
+     "Celeste",
+     "Azul Marino",
+     "Negro"
+    ]
+   }
+  ],
+  "variantes": [
+   {
+    "titulo": "Blanco",
+    "precio": 50000,
+    "opciones": [
+     "Blanco"
+    ]
+   },
+   {
+    "titulo": "Rosa",
+    "precio": 50000,
+    "opciones": [
+     "Rosa"
+    ]
+   },
+   {
+    "titulo": "Teja",
+    "precio": 50000,
+    "opciones": [
+     "Teja"
+    ]
+   },
+   {
+    "titulo": "Burdeo",
+    "precio": 50000,
+    "opciones": [
+     "Burdeo"
+    ]
+   },
+   {
+    "titulo": "Beige",
+    "precio": 50000,
+    "opciones": [
+     "Beige"
+    ]
+   },
+   {
+    "titulo": "Fango",
+    "precio": 50000,
+    "opciones": [
+     "Fango"
+    ]
+   },
+   {
+    "titulo": "Musgo",
+    "precio": 50000,
+    "opciones": [
+     "Musgo"
+    ]
+   },
+   {
+    "titulo": "Celeste",
+    "precio": 50000,
+    "opciones": [
+     "Celeste"
+    ]
+   },
+   {
+    "titulo": "Azul Marino",
+    "precio": 50000,
+    "opciones": [
+     "Azul Marino"
+    ]
+   },
+   {
+    "titulo": "Negro",
+    "precio": 50000,
+    "opciones": [
+     "Negro"
+    ]
+   }
+  ],
+  "descripcion": "Vestido midi en lino italiano con escote frontal caído. - Composición: 100% lino - Talla: Talla única - Colores: Blanco, Beige, Fango, Marrón, Rosa, Teja, Burdeo, Musgo, Celeste, Azul Marino y Negro.",
   "imagenes": [
-   "assets/img/productos/bi4119-1.jpg",
-   "assets/img/productos/bi4119-2.jpg"
+   "assets/img/productos/bi4119/01.jpg",
+   "assets/img/productos/bi4119/02.jpg",
+   "assets/img/productos/bi4119/03.jpg",
+   "assets/img/productos/bi4119/04.jpg",
+   "assets/img/productos/bi4119/05.jpg",
+   "assets/img/productos/bi4119/06.jpg",
+   "assets/img/productos/bi4119/07.jpg",
+   "assets/img/productos/bi4119/08.jpg",
+   "assets/img/productos/bi4119/09.jpg",
+   "assets/img/productos/bi4119/10.jpg",
+   "assets/img/productos/bi4119/11.jpg"
   ]
  }
 ]

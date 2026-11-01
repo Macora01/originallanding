@@ -21,18 +21,24 @@
     const art = document.createElement('article');
     art.className = 'tarjeta';
 
-    const foto = document.createElement('div');
-    foto.className = 'foto';
-    p.imagenes.forEach((src, i) => {
+    const enlace = document.createElement('a');
+    enlace.href = `producto.html?id=${encodeURIComponent(p.id)}`;
+    enlace.className = 'foto';
+    enlace.setAttribute('aria-label', p.nombre);
+    p.imagenes.slice(0, 2).forEach((src, i) => {
       const img = document.createElement('img');
       img.src = src;
       img.alt = i === 0 ? p.nombre : '';
       img.loading = 'lazy';
-      foto.appendChild(img);
+      enlace.appendChild(img);
     });
+    const foto = enlace;
 
     const nombre = document.createElement('h3');
-    nombre.textContent = p.nombre;
+    const nombreEnlace = document.createElement('a');
+    nombreEnlace.href = enlace.href;
+    nombreEnlace.textContent = p.nombre;
+    nombre.appendChild(nombreEnlace);
 
     const precio = document.createElement('p');
     precio.className = 'precio';
